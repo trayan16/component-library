@@ -12,19 +12,19 @@ This project is a customizable and reusable React UI Component Library designed 
 ## Installation
 
 ```bash
-npm install your-component-library
+npm install tstoyanov-ui-components
 ```
 
 or
 
 ```bash
-yarn add your-component-library
+yarn add tstoyanov-ui-components
 ```
 
 ## Usage
 
 ```jsx
-import { Button, Card } from 'your-component-library';
+import { Button, Card } from 'tstoyanov-ui-components';
 
 function App() {
     return (
